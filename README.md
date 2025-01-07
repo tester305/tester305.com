@@ -4,7 +4,7 @@
 - 📫 How to reach me:Type an issue on one of my repositories.
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: Javascript is not hard.
-- Okay,Thank you for reading!
+-👀 Okay,Thank you for reading!
 
 <!---
 tester305/tester305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

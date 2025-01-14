@@ -5,7 +5,7 @@
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: Javascript is not hard.
 - 👀 Thank you for reading this,Goodbye!
-- And lastly,i don't know why you are reading this. i don't have good skill at coding,Just css html js.
+- And lastly,i don't know why you are reading this. i don't have good skill at coding,Just css,html,js.
 ![Dancing Roblox Gif ](https://media1.tenor.com/m/b7yO7lRVfsAAAAAd/dancing-roblox.gif)
 <!---
 tester305/tester305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

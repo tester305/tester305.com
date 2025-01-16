@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @tester305
-- 👀 I’m interested in coding!
-- 🌱 I’m currently learning Javascript,CSS,HTML,Lua,Bash
-- 📫 How to reach me:Type an issue on one of my repositories.
-- 😄 Pronouns: he/him 
-- ⚡ Fun fact: Javascript is not hard.
-- 👀 Thank you for reading this,Goodbye!
-- And lastly,i don't know why you are reading this.
-                                                                                                                                   ![Dancing Roblox Gif ](https://media1.tenor.com/m/b7yO7lRVfsAAAAAd/dancing-roblox.gif)
+   ![Hello GIF](https://media1.tenor.com/m/6F_sv3mZjjQAAAAC/wave.gif)
+  - I know 3 languages and my calculator repo has them.
+  - Here is some of them,Javascript. Css and html!
+  ![Hello GIF](https://clipground.com/images/css3-png-10.png)
+  - My pronouns are He/Him
+  - I am nearly based on my uncle. He knows the languages i know except css i think,but he also knows the normal Java.
+  - Bye,i guess? my README will get more updates soon.
+                                                                                                                                  
 <!---
 tester305/tester305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

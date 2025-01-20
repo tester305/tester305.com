@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tester305
    ![Hello GIF](https://media1.tenor.com/m/6F_sv3mZjjQAAAAC/wave.gif)
-  - I know 3 languages and my calculator repo has them.
+  - I know 4 languages and my calculator repo has them. (Not java)
   - Here is some of them,Javascript. Css and html!
   ![Hello GIF](https://clipground.com/images/css3-png-10.png)
   - My pronouns are He/Him
